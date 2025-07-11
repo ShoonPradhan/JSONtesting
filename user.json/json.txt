@@ -1,0 +1,8 @@
+[{
+  "name": "Sofia",
+  "age": 18,
+  "location": "New Delhi"
+}
+
+
+]
